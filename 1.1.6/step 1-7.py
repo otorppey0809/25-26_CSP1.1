@@ -32,7 +32,7 @@ spider.goto(-25, 10)
 spider.pendown()
 spider.pencolor('red')
 spider.pensize(5)
-spider.circle(1)
+spider.circle(2)
 
 spider.hideturtle()
 wn = trtl.Screen()
