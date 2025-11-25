@@ -1,4 +1,5 @@
-x = 6
-while x > 5:
-    print(x)
-    x += 1
+g = ""
+
+for q in range(6):
+    g += "*"
+    print(g)
